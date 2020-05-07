@@ -1,0 +1,58 @@
+    h1 {
+        font-family: Calibri;
+        font-size: 25pt;
+        font-style: normal;
+        font-weight: bold;
+        color: SlateBlue;
+        text-align: center;
+        text-decoration: underline;
+        padding: 0%;
+        margin-top: 0%;
+    }
+    
+    h2 {
+        font-family: Calibri;
+        font-size: 25pt;
+        font-style: normal;
+        font-weight: bold;
+        color: SlateBlue;
+        text-align: center;
+        padding: 0%;
+        margin-top: 0%;
+    }
+    
+    a {
+        display: block;
+        width: 115px;
+        text-align: center;
+        padding: 0%;
+        margin: auto;
+        font-family: Calibri;
+        font-size: 25pt;
+        font-style: normal;
+        font-weight: bold;
+        color: SlateBlue;
+    }
+    
+    table {
+        font-family: Calibri;
+        color: white;
+        font-size: 10pt;
+        font-style: normal;
+        background-color: SlateBlue;
+        border-collapse: collapse;
+        width: 20%;
+    }
+    
+    table.inner {
+        border: 0px;
+    }
+
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 30%;
+        padding: 0%;
+        margin-top: 0%;
+    }
